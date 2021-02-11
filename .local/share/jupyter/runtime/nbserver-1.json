@@ -1,0 +1,11 @@
+{
+  "base_url": "/binder/jupyter/user/etsi123-plos_mortality_predictor-d87ri39a/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jovyan",
+  "password": false,
+  "pid": 1,
+  "port": 8888,
+  "secure": false,
+  "token": "1NoJkaYCSSe6Nai236DCsw",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/etsi123-plos_mortality_predictor-d87ri39a/"
+}
